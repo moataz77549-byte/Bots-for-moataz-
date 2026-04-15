@@ -1,0 +1,7 @@
+node_modules/
+.env
+*.db
+temp/
+cookies/
+attached_assets/
+.agents/
